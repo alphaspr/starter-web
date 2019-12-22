@@ -8,5 +8,8 @@ Introduction Section
 ## Purpose
 
 Sample website with plenty of files for demos
+Purpose Section
 
 ## How to Contribute
+
+Contribute Section
