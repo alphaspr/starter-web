@@ -15,5 +15,5 @@ Purpose Section
 ## How to Contribute
 
 Contribute Section
-
+All rights reserved
 2014 Git.Git
